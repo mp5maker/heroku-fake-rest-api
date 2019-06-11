@@ -1,0 +1,26 @@
+{
+  "name": "heroku-fake-rest-api",
+  "version": "1.0.0",
+  "description": "A fake RESTful API for testing purposes, ready to deploy to services like Heroku.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mp5maker/heroku-fake-rest-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.9.1"
+  },
+  "bugs": {
+    "url": "https://github.com/mp5maker/heroku-fake-rest-api/issues"
+  },
+  "homepage": "https://github.com/mp5maker/heroku-fake-rest-api#readme",
+  "engines": {
+    "node": "8.11.4"
+  }
+}
