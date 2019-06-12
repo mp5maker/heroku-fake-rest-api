@@ -14,7 +14,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "json-server": "^0.9.1"
+    "json-server": "^0.15.0"
   },
   "bugs": {
     "url": "https://github.com/mp5maker/heroku-fake-rest-api/issues"
